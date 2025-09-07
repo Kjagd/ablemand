@@ -5,7 +5,11 @@ layout: default
 # Leje af udstyr til æblemost i storkøbenhavn
 
 ## Udstyret
+
+{% include images.html %}
+
 Har du æbler i haven, eller kender du nogen, der har? Så er det oplagt at lave din egen æblemost. Her kan du leje udstyr, som gør arbejdet både nemt og sjovt.
+
 
 Udstyret består af en 1500 W frugtkværn samt en 20 L hydropresse. Frugtkværnen kan tage hele frugter, med en kapacitet på op til 750 kg/t og sørger for at findele frugterne til en masse som giver mere udbytte i pressen.
 
