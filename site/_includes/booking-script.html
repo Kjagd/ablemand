@@ -1,0 +1,18 @@
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    console.log('here')
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2AjBqM9I9H_VBpsg1FEmByrnJBZ_x6_hUy08AmGV2HIxxFaiE7a8rXhFHEPF_yXHpWVoH08TyT?gv=true',
+      color: '#039BE5',
+      label: 'Find en ledig tid',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
