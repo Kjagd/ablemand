@@ -19,7 +19,7 @@ Lej udstyret til dit næste most-projekt – så kan du opleve, hvor nemt og til
 Udstyret kan også bruges til fx pærer, men ikke stenfrugter.
 
 ## Priser
-Depositum er 2000 kr. I kan også leje via. [Hygglo.dk](https://www.hygglo.dk/i/2eb-aeble-mosteri-med-frugtkvaern-og-hydropresse){:target="_blank"} uden depositum med forsikring.
+Depositum er 2000 kr. I kan også leje via. [Hygglo.dk](https://www.hygglo.dk/i/2eb-aeble-mosteri-med-frugtkvaern-og-hydropresse){:target="_blank"} uden depositum med forsikring. Hvis du er ny bruger, så brug koden `83KLT` og spar 50kr.
 
 **Weekend**: 1 dag 400 kr, hel weekend 600 kr
 
