@@ -18,23 +18,16 @@ Hydropressen kræver bare en hel almindelig haveslange som tilsluttes. Trykket f
 Lej udstyret til dit næste most-projekt – så kan du opleve, hvor nemt og tilfredsstillende det er at lave æblemost helt fra bunden.
 Udstyret kan også bruges til fx pærer, men ikke stenfrugter.
 
-## Priser
-Depositum er 2000 kr. I kan også leje via. [Hygglo.dk](https://www.hygglo.dk/i/2eb-aeble-mosteri-med-frugtkvaern-og-hydropresse){:target="_blank"} uden depositum med forsikring. Hvis du er ny bruger, så brug koden `83KLT` og spar 50kr.
+## Hvordan lejer man?
 
-**Weekend**: 1 dag 400 kr, hel weekend 600 kr
+Udstyres udlejes igennem Hygglo som sørger for forsikring. Her kan du også se priser og ledighed. Hvis du er ny bruger, så brug koden `83KLT` under din profil _før_ du reserverer og spar 50kr.
 
-**Hverdage**: 1 dag 250 kr, flere dage aftales nærmere
+<button style="background-color: #813181; color: white; border-radius: 24px; padding: 12px 24px; border-width: 0;" onclick="window.open('https://www.hygglo.dk/i/2eb-aeble-mosteri-med-frugtkvaern-og-hydropresse')">Lej på Hygglo.dk</button>
 
-## Ledighed
-Tryk på knappen nedenunder for at vælge en ledig dag. Flere sammenhængede dage skrives blot som kommentar. Bookinger bliver bekræftet på sms.
-
-{% include booking-script.html %}
-\
-Du kan også skrive eller ringe på 20 77 08 32. 
- 
+Hvis du laver meget og vil pasteurisere det kan du også leje en maskine som gør det let [her](https://www.hygglo.dk/i/762-pasteurisator-27l){:target="_blank"}.
 
 ## Afhentning af udstyr
-Udstyres afhentes i Brøndby Strand, den præcise addresse oplyses ved aftale :)
+Udstyres afhentes i Brøndby Strand, den præcise addresse oplyses ved reservation.
 
 {% include map.html %}
 
